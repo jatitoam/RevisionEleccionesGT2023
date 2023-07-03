@@ -48,6 +48,9 @@ dump.txt
 /tests/tmp/**
 !/tests/tmp/.gitkeep
 
+# Docker compose
+.env
+
 # Dist
 /dist
 
