@@ -1,0 +1,12 @@
+{
+  "name": "revisionelecciones",
+  "version": "1.0.0",
+  "description": "Sistema de revisión de elecciones Guatemala 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@jatitoam",
+  "license": "GPL-3.0-or-later",
+  "repository": "git@github.com:jatitoam/RevisionEleccionesGT2023.git"
+}
